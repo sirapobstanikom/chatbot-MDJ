@@ -88,8 +88,7 @@ AI MDJ/
 - **Frontend**: React, CSS3
 - **Styling**: Custom CSS with black & yellow theme
 - **Communication**: REST API
-- **AI**: OpenAI GPT-3.5-turbo (optional)
-
+- **AI**: OpenAI GPT-4o-mini
 ## การพัฒนาเพิ่มเติม
 
 - เพิ่มระบบ Authentication
